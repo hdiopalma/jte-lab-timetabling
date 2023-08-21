@@ -1,0 +1,8 @@
+name: jte-lab-timetabling
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.12=h4de0772_0_cpython
+  - django=4.1
+  - djangorestframework = 3.14.0
+prefix: C:\Users\hdiop\mambaforge
