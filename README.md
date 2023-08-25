@@ -96,5 +96,5 @@
     - Make any necessary refinements to improve the system's usability and performance.
 
 22. **Submission:**
-    - Submit your completed project and thesis according to your university's guidelines.
+    - Submit completed project and thesis according to university's guidelines.
 
