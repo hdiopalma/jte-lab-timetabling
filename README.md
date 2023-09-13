@@ -3,24 +3,24 @@
 **Phase 1: Project Setup and Planning**
 
 1. **Project Kickoff:**
-   - Review your project requirements, goals, and constraints.
-   - Set clear objectives for scheduling system.
+   - Review your project requirements, goals, and constraints. ✅
+   - Set clear objectives for scheduling system. ✅
 
 2. **Problem Analysis:**
-   - Understand the scheduling problem thoroughly.
-   - Identify all the constraints, preferences, and data sources.
+   - Understand the scheduling problem thoroughly. ✅
+   - Identify all the constraints, preferences, and data sources. ✅
 
 3. **Project Planning:**
-   - Break down project into manageable tasks.
-   - Create a timeline or Gantt chart to allocate time for each task.
+   - Break down project into manageable tasks. ✅
+   - Create a timeline or Gantt chart to allocate time for each task. ✅
 
 4. **Data Collection and Preparation:**
-   - Gather data about participants, assistants, modules, laboratories, and existing schedules.
+   - Gather data about participants, assistants, modules, laboratories, and existing schedules. ✅
 
 **Phase 2: Algorithm Development**
 
 5. **Algorithm Design:**
-   - Design hybrid meta-heuristics algorithm (Genetic Algorithm + Tabu Search).
+   - Design hybrid meta-heuristics algorithm (Genetic Algorithm + Tabu Search). 😭😭😭😭😭
    - Define the fitness function that evaluates schedule quality.
 
 6. **Algorithm Implementation:**
@@ -77,14 +77,15 @@
 17. **Deployment:**
     - Deploy Django project to a server or cloud platform (Heroku, AWS, etc.).
     - Set up databases, environment variables, and other configurations.
+    - Design and implement front-end user interface using react or other framework.
 
 18. **Monitoring and Scaling:**
     - Implement monitoring for your API service to track performance and identify issues.
-    - Consider strategies for scaling your service if needed.
+    - Consider strategies for scaling service if needed.
 
 19. **Thesis Presentation:**
     - Prepare a well-structured thesis document that covers all aspects of project.
-    - Create a compelling presentation for your thesis defense.
+    - Create a compelling presentation for thesis defense.
 
 **Phase 6: Finalizing and Submission**
 
