@@ -21,7 +21,7 @@
 
 5. **Algorithm Design:**
    - Design hybrid meta-heuristics algorithm (Genetic Algorithm + Tabu Search). 😭😭😭😭😭
-   - Define the fitness function that evaluates schedule quality.
+   - Define the fitness function that evaluates schedule quality. ✅
 
 6. **Algorithm Implementation:**
    - Create a separate module or package for scheduling algorithm.
