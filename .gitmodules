@@ -1,0 +1,6 @@
+[submodule "LabTimetablingAPI"]
+	path = LabTimetablingAPI
+	url = https://github.com/hdiopalma/LabTimetablingAPI.git
+[submodule "LabTimetablingFrontEnd"]
+	path = LabTimetablingFrontEnd
+	url = https://github.com/hdiopalma/LabTimetablingFrontEnd.git
