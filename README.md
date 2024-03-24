@@ -103,27 +103,27 @@
 
 23. **Front-end Technology Selection:**
     - Confirm your choice of Next.js for the front end. ✅
-    - Explore any additional libraries or frameworks you might need (React, Redux, etc.).
+    - Explore any additional libraries or frameworks you might need (React, Redux, etc.). ✅ (Ganti make vue jadinya)
 
 24. **Project Setup:**
-    - Install Next.js in your project directory. 
-    - Set up the basic structure for your front-end application.
+    - Install Next.js in your project directory. ✅ (Pake vue)
+    - Set up the basic structure for your front-end application. ✅
 
 25. **API Integration:**
-    - Connect your Next.js application to the Django backend using API endpoints. 
-    - Implement functions to fetch and send data to the Django API.
+    - Connect your Next.js application to the Django backend using API endpoints. ✅ (Pake vue)
+    - Implement functions to fetch and send data to the Django API. ✅
 
 26. **User Interface Design:**
-    - Design the user interface for the timetabling system.
-    - Consider the user experience and ensure intuitive navigation.
+    - Design the user interface for the timetabling system. (Baru sampe crud)
+    - Consider the user experience and ensure intuitive navigation. ✅
 
 27. **Component Implementation:**
     - Create React components for different sections of your timetabling system.
-    - Implement state management if needed (Redux, React Context API).
+    - Implement state management if needed (Redux, React Context API). ✅ (Pake pinia)
 
 28. **Responsive Design:**
-    - Ensure your front-end is responsive and works well on various devices.
-    - Test the user interface on different screen sizes.
+    - Ensure your front-end is responsive and works well on various devices. ✅
+    - Test the user interface on different screen sizes. ✅
 
 29. **Testing:**
     - Perform thorough testing of your front-end components.
